@@ -43,15 +43,3 @@ Jr. Python Developer with expertise in backend development, data analysis, and c
 - **M.S. in Business Analytics**, Northwood University, Midland, MI (Expected: Aug 2024)
 - **B.Tech in Computer Science and Engineering**, GITAM School of Technology, Hyderabad, India (May 2019)
 
-## Projects
-
-You can view my project portfolio here:
-
-- **[Project 1: Personal Portfolio Website](#)**: A responsive personal website built using HTML, CSS, and JavaScript. Features a contact form and a dynamic portfolio section.
-- **[Project 2: E-commerce Web App](#)**: An e-commerce platform developed with React and Node.js, complete with a shopping cart and payment gateway integration.
-
-## How to View My Portfolio
-
-1. Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/ChandraAnki/portfolio.git
