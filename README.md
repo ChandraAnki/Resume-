@@ -1,6 +1,6 @@
 # Chandra Sekhar Ankisetty - Portfolio
 
-Welcome to my portfolio! I am a Jr. Python Developer with 2+ years of experience in building scalable and efficient applications. I specialize in backend development, API design, and data processing, with proficiency in Python, Django, MySQL, and cloud technologies like AWS.
+I am a Jr. Python Developer with 2+ years of experience in building scalable and efficient applications. I specialize in backend development, API design, and data processing, with proficiency in Python, Django, MySQL, and cloud technologies like AWS.
 
 ## Contact Information
 
