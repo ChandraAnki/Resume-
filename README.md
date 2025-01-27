@@ -7,7 +7,6 @@ I am a Jr. Python Developer with 2+ years of experience in building scalable and
 - **Email**: ankishetti.chandrasekhar@gmail.com
 - **Phone**: +1 (989) 572 4981
 - **GitHub**: [github.com/ChandraAnki](https://github.com/ChandraAnki)
-- **LinkedIn**: [linkedin.com/in/yourprofile](#)
 
 ## Professional Summary
 
